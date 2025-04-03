@@ -13,7 +13,7 @@ public class Main {
 
 
             int ro =2 ;
-
+            int up = ro+ro;
 
 
         }
